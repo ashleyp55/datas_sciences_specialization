@@ -1,2 +1,2 @@
-# datas_sciences_specialization
+# datasciencecoursera
 Repository for all data science specialization work
